@@ -1,6 +1,6 @@
-# react-ckeditor-component
+# ckeditor-react-component-4
 
-**React component for CKEditor**
+**React component for CKEditor 4**
 
 ## Installation
 
